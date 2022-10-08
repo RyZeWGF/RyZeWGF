@@ -1,0 +1,4 @@
+-- V2 Reborn Key is Syntaxbesthub --
+-- discrod https://discord.gg/syntaxontop
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Memeboiyot/SyntaxRebornOfficial/main/SyntaxReborn'),true))()

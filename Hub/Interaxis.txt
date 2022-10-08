@@ -1,0 +1,222 @@
+--hasts:
+
+
+
+--Tiddie Jiggle Physics:{
+--Total Price: 243 Robux
+--https://www.roblox.com/catalog/20011897/Space-Cop -- 57 Robux
+--https://www.roblox.com/catalog/12548563/Asimov-Outlaw -- 101 Robux
+--https://www.roblox.com/catalog/5132802731/Pink-Pom-poms -- 50 Robux
+--https://www.roblox.com/catalog/4708707860/Pink-Heart-Purse -- 35 Robux
+--}
+--Baby:{
+--Total Price: 200 Robux
+--https://www.roblox.com/catalog/4132848799/Cyclops-Eye -- 20 Robux
+--https://www.roblox.com/catalog/4659591491/Poppin-Eyes -- 15 Robux
+--https://www.roblox.com/catalog/4735551808/Hollow -- 50 Robux
+--https://www.roblox.com/catalog/4936569825/Chocolate-Bar -- 15 Robux
+--https://www.roblox.com/catalog/4996005555/Pink-Macaron -- 20 Robux
+--https://www.roblox.com/catalog/4996009465/Chocolate-Macaron -- 15 Robux
+--https://www.roblox.com/catalog/4997842485/Green-Macaron -- 15 Robux
+--https://www.roblox.com/catalog/4997844664/Blue-Macaron -- 15 Robux
+--https://www.roblox.com/catalog/4997846903/Purple-Macaron -- 15 Robux
+--https://www.roblox.com/catalog/5132745957/Red-Cyclops-Eye -- 20 Robux
+--}
+--Neko Stand:{
+--Total Price: 540 Robux
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/62234425/Brown-Hair
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--https://www.roblox.com/catalog/4740308836/Crimson-Crescent-Horns -- 100 Robux
+--https://www.roblox.com/catalog/4904137145/Emotimask-Relax -- 75 Robux
+--https://www.roblox.com/catalog/4904153006/Emotimask-Cute -- 75 Robux
+--https://www.roblox.com/catalog/5140984609/Whispy-Double-Bun-Bangs-Silver -- 140 Robux
+--https://www.roblox.com/catalog/5314010695/Emotimask-Blush -- 75 Robux
+--https://www.roblox.com/catalog/5459982119/White-Pointy-Fluffy-Ears -- 75 Robux
+--}
+--Spider-Bot:{
+--Total Price: 1205 Robux
+--https://www.roblox.com/catalog/19399858/Dark-Bat-Wings -- 350 Robux
+--https://www.roblox.com/catalog/1744033107/Young-Yoshimi-Hair -- 80 Robux
+--https://www.roblox.com/catalog/4584787037/Brunette-Bangs-w-bun -- 150 Robux
+--https://www.roblox.com/catalog/4584787812/Black-Bangs-w-bun -- 150 Robux
+--https://www.roblox.com/catalog/4584788319/Platinum-Bangs-w-bun -- 150 Robux
+--https://www.roblox.com/catalog/4876357616/Doodle-Devil-Wings-Black -- 100 Robux
+--https://www.roblox.com/catalog/4876363621/Doodle-Devil-Wings-Red -- 100 Robux
+--https://www.roblox.com/catalog/4878132899/Galactic-Hair -- 50 Robux
+--https://www.roblox.com/catalog/4041570918/Dark-Mermaid-Hair -- 25 Robux
+--https://www.roblox.com/catalog/2804660059/Happy-New-Year-Pig -- 50 Robux
+--}
+--Sneakbox Rig:{
+--Total Price: 506 Robux
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/62234425/Brown-Hair
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--https://www.roblox.com/catalog/4684948729/Kawaii-Knife -- 100 Robux
+--https://www.roblox.com/catalog/4735551808/Hollow -- 50 Robux
+--https://www.roblox.com/catalog/4740308836/Crimson-Crescent-Horns -- 100 Robux
+--https://www.roblox.com/catalog/4793985219/CRATE -- 150 Robux
+--https://www.roblox.com/catalog/4975318046/Rainy-Cloud -- 56 Robux
+--https://www.roblox.com/catalog/5269023723/Checker-Of-Vibes -- 50 Robux
+--}
+--HoverSword:{
+--Total Price: 100 Robux
+--Any Demonic Great Sword -- 100 Robux
+--}
+--Horse:{
+--Total Price: 205 Robux
+--https://www.roblox.com/catalog/39072316/Veterans-Day-Cap -- 15 Robux
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/48474313/Red-Roblox-Cap
+--https://www.roblox.com/catalog/62234425/Brown-Hair
+--https://www.roblox.com/catalog/62724852/Chestnut-Bun
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--https://www.roblox.com/catalog/4132848799/Cyclops-Eye -- 20 Robux
+--https://www.roblox.com/catalog/4584787812/Black-Bangs-w-bun -- 150 Robux
+--https://www.roblox.com/catalog/5132745957/Red-Cyclops-Eye -- 20 Robux
+--}
+--Suicide:{
+--Total Price: 75 or 112 Robux
+--https://www.roblox.com/catalog/5100070995/Mk-73-Big-Laser -- 75 Robux
+--or
+--https://www.roblox.com/catalog/5100116651/Mk-73-The-Gambler -- 112 Robux
+--}
+--Neko With Bob and Vagene:{
+--Total Price: 353 Robux
+--https://www.roblox.com/catalog/10911958/WWII-Infantry-Helmet -- 15 Robux
+--https://www.roblox.com/catalog/11142504/Motocross-48-Old-Skool -- 48 Robux
+--https://www.roblox.com/catalog/11679229/Motocross-62-Fire -- 62 Robux
+--https://www.roblox.com/catalog/12565541/Motocross-76-Old-Glory -- 76 Robux
+--https://www.roblox.com/catalog/14463468/Motocross-77-The-Sting -- 77 Robux
+--https://www.roblox.com/catalog/4602286484/Red-Beak -- 15 Robux
+--https://www.roblox.com/catalog/4641686175/Fluffy-Heart-Earrings -- 60 Robux
+--}
+--Obby:{
+--Total Price: 338 Robux
+--https://www.roblox.com/catalog/20011897/Space-Cop -- 57 Robux
+--https://www.roblox.com/catalog/12548563/Asimov-Outlaw -- 101 Robux
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/62724852/Chestnut-Bun
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--https://www.roblox.com/catalog/3398308134/International-Fedora-Canada
+--Any Demonic Great Sword -- 100 Robux
+--https://www.roblox.com/catalog/4793958453/ROCK -- 100 Robux
+--https://www.roblox.com/catalog/5803111175/Red-Shoulder-Wing-Set -- 40 Robux
+--https://www.roblox.com/catalog/5803107414/Dark-Shoulder-Wing-Set  -- 40 Robux
+--}
+--Fire-Tail Visualizer:{
+--Total Price: 523 Robux
+--https://www.roblox.com/catalog/8337370/Blockhead-Baseball-Cap -- 8 Robux
+--https://www.roblox.com/catalog/39072316/Veterans-Day-Cap -- 15 Robux
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/48474313/Red-Roblox-Cap
+--https://www.roblox.com/catalog/62234425/Brown-Hair
+--https://www.roblox.com/catalog/62724852/Chestnut-Bun
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/191101707/Flaming-Mohawk -- 500 Robux
+--https://www.roblox.com/catalog/376527115/Jade-Necklace-with-Shell-Pendant
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--}
+--Tail Visualizer:{
+--Total Price: 38 Robux
+--https://www.roblox.com/catalog/8337370/Blockhead-Baseball-Cap -- 8 Robux
+--https://www.roblox.com/catalog/27814348/Thinking-Cap -- 15 Robux
+--https://www.roblox.com/catalog/39072316/Veterans-Day-Cap -- 15 Robux
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/48474313/Red-Roblox-Cap
+--https://www.roblox.com/catalog/62234425/Brown-Hair
+--https://www.roblox.com/catalog/62724852/Chestnut-Bun
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/376527115/Jade-Necklace-with-Shell-Pendant
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--}
+--Circle Visualizer:{
+--Total Price: 0 Robux
+--https://www.roblox.com/catalog/3409612660/International-Fedora-USA
+--https://www.roblox.com/catalog/3438342658/International-Fedora-Argentina
+--https://www.roblox.com/catalog/3499972183/International-Fedora-Colombia
+--https://www.roblox.com/catalog/3656493304/International-Fedora-South-Korea
+--https://www.roblox.com/catalog/3662265036/International-Fedora-Indonesia
+--https://www.roblox.com/catalog/3822880197/International-Fedora-Ukraine
+--https://www.roblox.com/catalog/3940375351/International-Fedora-Philippines
+--https://www.roblox.com/catalog/4047554959/International-Fedora-Brazil
+--https://www.roblox.com/catalog/4489239608/International-Fedora-United-Kingdom
+--https://www.roblox.com/catalog/4584029953/International-Fedora-Poland
+--}
+--Toxic Titan & Internal War:{
+--Total Price: 820
+--https://www.roblox.com/catalog/1744033107/Young-Yoshimi-Hair -- 80 Robux
+--https://www.roblox.com/catalog/4584787037/Brunette-Bangs-w-bun -- 150 Robux
+--https://www.roblox.com/catalog/4584787812/Black-Bangs-w-bun -- 150 Robux
+--https://www.roblox.com/catalog/4584788319/Platinum-Bangs-w-bun -- 150 Robux
+--https://www.roblox.com/catalog/4878136110/Cyber-Peacock-Tail -- 200 Robux
+--https://www.roblox.com/catalog/5064651922/Messy-Black-Hair -- 90 Robux
+ 
+--Internal War Exception(s)
+--https://www.roblox.com/catalog/3398308134/International-Fedora-Canada
+--}
+--Vroomer:{
+--Total Price: 50
+--Any Elitoria Car -- 50 Robux
+--}
+--Cyclops:{
+--Total Price: 820
+--https://www.roblox.com/catalog/1744033107/Young-Yoshimi-Hair -- 80 Robux
+--https://www.roblox.com/catalog/4584787037/Brunette-Bangs-w-bun -- 150 Robux
+--https://www.roblox.com/catalog/4584787812/Black-Bangs-w-bun -- 150 Robux
+--https://www.roblox.com/catalog/4584788319/Platinum-Bangs-w-bun -- 150 Robux
+--https://www.roblox.com/catalog/4878136110/Cyber-Peacock-Tail -- 200 Robux
+--https://www.roblox.com/catalog/5064651922/Messy-Black-Hair -- 90 Robux
+--}
+--Cat Neko:{
+--Total Price: 540 Robux
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/62234425/Brown-Hair
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--https://www.roblox.com/catalog/4740308836/Crimson-Crescent-Horns -- 100 Robux
+--https://www.roblox.com/catalog/4904137145/Emotimask-Relax -- 75 Robux
+--https://www.roblox.com/catalog/4904153006/Emotimask-Cute -- 75 Robux
+--https://www.roblox.com/catalog/5140984609/Whispy-Double-Bun-Bangs-Silver -- 140 Robux
+--https://www.roblox.com/catalog/5314010695/Emotimask-Blush -- 75 Robux
+--https://www.roblox.com/catalog/5459982119/White-Pointy-Fluffy-Ears -- 75 Robux
+--}
+--Rig:{
+--Total Price: 150 Robux
+--https://www.roblox.com/catalog/62234425/Brown-Hair
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/4735551808/Hollow -- 50 Robux
+--https://www.roblox.com/catalog/4740308836/Crimson-Crescent-Horns -- 100 Robux
+--}
+--Broom Horse:{
+--Total Price: 180 Robux
+--https://www.roblox.com/catalog/5263297279/Witchs-Broom -- 100 Robux
+--https://www.roblox.com/catalog/4254774321/Surprised-Horse-Head -- 80 Robux
+--https://www.roblox.com/catalog/5205483683/Fiery-Fox-Shoulder-Pal -- PROMOCODE: TARGETFOX2020
+--}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--script:
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bigjohnny1234/Interaxis-hub/main/README.md"))()

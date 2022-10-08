@@ -1,0 +1,7 @@
+getfenv().KAPIVELOCITY = Vector3.new(0,25.1,0)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TypicallyAUser/kapi/main/main.lua"))()
+
+--Hacker x : 5460022866,4772333739,5699732847
+--Internal War : 18015906,7628287080,1744235800,1743941933,1744219293,5064651922
+--Brick Battler : 7244158417
+

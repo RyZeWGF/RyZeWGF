@@ -1,0 +1,2 @@
+--[[ beware when using script wait 5 minutes in between stealing to avoid bans, als be sure to change some pixel colors on the canvas aswell ]]--
+loadstring(game:HttpGet("https://pastebin.com/raw/aCFfd9Uq"))()

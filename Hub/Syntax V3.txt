@@ -1,0 +1,91 @@
+-- V3 Key is SyntaxV3Free --
+-- discord https://discord.gg/syntaxontop
+ 
+shared.colors = {
+    Icons = Color3.fromRGB(0,255,149),
+    Version = Color3.fromRGB(0,255,149),
+    Text = Color3.fromRGB(255,255,255),
+    Description = Color3.fromRGB(125,125,125),
+    TabList = Color3.fromRGB(30,30,30),
+    Scripts = Color3.fromRGB(30,30,30),
+    Back = Color3.fromRGB(25,25,25),
+    Glow = Color3.fromRGB(0,0,0),
+}
+shared.transparency = {
+    Version = 0,
+    Text = 0,
+    Description = 0,
+    Icons = 0,
+    Back = 0,
+    Glow = 0.5,
+    TabList = 0,
+    Scripts = 1,
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Memeboiyot/Syntax-V3-Free/main/Syntax%20v3", true))()
+
+
+
+---Syntax v3 Free Version Hats
+
+-- Ink Monster 
+--Recommend head: https://www.roblox.com/catalog/7133520069/Faceless-White-Head
+--https://www.roblox.com/catalog/29532720/Mizaru
+
+-- Battle Rifle
+--Recommend head: https://www.roblox.com/catalog/7133520069/Faceless-White-Head
+--https://www.roblox.com/catalog/29532720/Mizaru
+--https://www.roblox.com/catalog/4962510729/Diesel-Hussar-Chainsabre
+--https://www.roblox.com/catalog/4962455546/Type-49-The-Abomination
+
+-- Blood Moon
+--Recommend head: https://www.roblox.com/catalog/7133520069/Faceless-White-Head
+--https://www.roblox.com/catalog/29532720/Mizaru
+--https://www.roblox.com/catalog/7583370812/Nebula-Blade
+--https://www.roblox.com/catalog/3756389957/Cursed-Flames
+--https://www.roblox.com/catalog/4773932088/Evil-Aura
+
+-- Chara 
+--Recommend head: https://www.roblox.com/catalog/7133520069/Faceless-White-Head
+--https://www.roblox.com/catalog/29532720/Mizaru
+--https://www.roblox.com/catalog/4962510729/Diesel-Hussar-Chainsabre
+
+-- Internal War
+--https://www.roblox.com/catalog/29532720/Mizaru
+--https://www.roblox.com/catalog/18015906/Ludicrous-Floppy-Hat-With-Unreasonably-Large-Bow
+--https://www.roblox.com/catalog/1744219293/Graduation-Cap-2018
+--https://www.roblox.com/catalog/1743941933/Panic-Cap
+--https://www.roblox.com/catalog/1744235800/Cap-of-Dreamers
+--https://www.roblox.com/catalog/4878136110/Cyber-Peacock-Tail
+--https://www.roblox.com/catalog/4773270135/BIG-Red-Goose-Fur-Hood-Black
+
+-- Galactia 
+--Recommend head: https://www.roblox.com/catalog/7133520069/Faceless-White-Head
+--https://www.roblox.com/catalog/29532720/Mizaru
+--https://www.roblox.com/catalog/5505301521/The-Left-Solo-Wing
+--https://www.roblox.com/catalog/5593848751/The-Right-Solo-Wing
+--https://www.roblox.com/catalog/4623728953/Black-Demon-Trident
+
+-- Chips
+--Recommend head: https://www.roblox.com/catalog/7133520069/Faceless-White-Head
+--https://www.roblox.com/catalog/29532720/Mizaru
+--https://www.roblox.com/catalog/4964938812/Pillow
+
+
+-- Sex doll
+--https://www.roblox.com/catalog/5100144397/Beeism-on-Shoulder
+
+-- Floppa
+--https://www.roblox.com/catalog/6995288595/Big-Floppa-Head
+--https://www.roblox.com/catalog/7495844044/Boat-Car
+--https://www.roblox.com/catalog/62724852/Chestnut-Bun
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/6838517854/Brown-Fluffy-Tail
+
+-- Jason Voorhees
+--https://www.roblox.com/catalog/4794155342/Tree-Cutting-Axe
+
+-- Knife
+--https://www.roblox.com/catalog/7170680556/White-Swag-Knife

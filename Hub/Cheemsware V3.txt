@@ -1,0 +1,53 @@
+
+
+--hats:Monke
+--https://www.roblox.com/catalog/7436333515/Monkey-Head
+--https://www.roblox.com/catalog/1744235800/Cap-of-Dreamers
+--https://www.roblox.com/catalog/1743941933/Panic-Cap
+--https://www.roblox.com/catalog/4878136110/Cyber-Peacock-Tail
+
+
+--Fake VR Hands
+--https://www.roblox.com/catalog/5674297809/Eye-Head
+--https://www.roblox.com/catalog/4315489767/Demonic-Greatsword
+--https://www.roblox.com/catalog/4506945409/Corrupt-Demonic-Greatsword
+--https://www.roblox.com/catalog/4753437569/Treadmobile
+--https://www.roblox.com/catalog/48474313/Red-Roblox-Cap
+--https://www.roblox.com/catalog/62234425/Brown-Hair
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/62724852/Chestnut-Bun
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+
+--And make sure ur torso color is "Red" and limbs is "Very Gray"
+
+--and load Infinite Yield and after fake vr loads do ;fly
+
+--Hands (Weiner)
+--https://www.roblox.com/catalog/4506945409/Corrupt-Demonic-Greatsword
+--https://www.roblox.com/catalog/4504231783/Elemental-Crystal-Golem-Shoulder-Rock
+--https://www.roblox.com/catalog/1103003368/Orange-Beanie-with-Black-Hair
+--https://www.roblox.com/catalog/376527115/Jade-Necklace-with-Shell-Pendant
+--https://www.roblox.com/catalog/48474313/Red-Roblox-Cap
+--https://www.roblox.com/catalog/62234425/Brown-Hair
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/62724852/Chestnut-Bun
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/6746520818/transparent-clear
+
+--And all body skin tone to "Very Gray"
+
+
+--Among Us (new)
+--https://www.roblox.com/catalog/6473546459/Among-Us
+--https://www.roblox.com/catalog/11679229/Motocross-62-Fire
+--https://www.roblox.com/catalog/11142504/Motocross-48-Old-Skool
+--https://www.roblox.com/catalog/7286662870/Serrated-Knife-on-Mouth
+--https://www.roblox.com/catalog/5231223671/Black-Tophead
+--https://www.roblox.com/catalog/6470135113/Fan-Hand-Sign-Why-Dont-We-WDW
+
+
+--script made RyZe
+
+loadstring(game:HttpGet("https://nexo.notxeneon15.repl.co/cheemsware.lua"))()

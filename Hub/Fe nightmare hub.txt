@@ -1,0 +1,77 @@
+
+--hats
+
+--Fe rocket launcher hats needed:
+--https://www.roblox.com/catalog/6470135113/Fan-Hand-Sign-Why-Dont-We-WDW
+--https://www.roblox.com/catalog/4381828509/Junkbot-Hat
+--https://www.roblox.com/catalog/2493718915/The-High-Seas-Beatrix-The-Pirate-Queen-Hat
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/62724852/Chestnut-Bun
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/62234425/Brown-Hair
+--https://www.roblox.com/catalog/376524487/Blonde-Spiked-Hair
+------------------------------------------
+--Fe heavy arm hats needed:
+--https://www.roblox.com/catalog/2493718915/The-High-Seas-Beatrix-The-Pirate-Queen-Hat
+--https://www.roblox.com/catalog/6470135113/Fan-Hand-Sign-Why-Dont-We-WDW
+--https://www.roblox.com/catalog/4381828509/Junkbot-Hat
+--https://www.roblox.com/catalog/2493718915/The-High-Seas-Beatrix-The-Pirate-Queen-Hat
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/62724852/Chestnut-Bun
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/62234425/Brown-Hair
+--https://www.roblox.com/catalog/376524487/Blonde-Spiked-Hair
+---------------------------------------
+--Fe hammer hats needed:
+--https://www.roblox.com/catalog/6470135113/Fan-Hand-Sign-Why-Dont-We-WDW
+--https://www.roblox.com/catalog/4381828509/Junkbot-Hat
+--https://www.roblox.com/catalog/2493718915/The-High-Seas-Beatrix-The-Pirate-Queen-Hat
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/62724852/Chestnut-Bun
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/62234425/Brown-Hair
+--https://www.roblox.com/catalog/376524487/Blonde-Spiked-Hair
+---------------------------------------
+--Fe dj hats needed: 
+--https://www.roblox.com/catalog/6531967293/Imagination-Core
+--https://www.roblox.com/catalog/6829556357/Poster-Girl-Record-Zara-Larsson
+--https://www.roblox.com/catalog/48474313/Red-Roblox-Cap
+--https://www.roblox.com/catalog/6470135113/Fan-Hand-Sign-Why-Dont-We-WDW
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/62724852/Chestnut-Bun
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+---------------------------------------
+--fe evil eye hats needed:
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/4819740796/Robox
+---------------------------------------
+--Fe lifter hats needed:
+--https://www.roblox.com/catalog/2493590711/Knights-of-Redcliff-Paladin-Helmet
+--https://www.roblox.com/catalog/4381828509/Junkbot-Hat
+--https://www.roblox.com/catalog/2493718915/The-High-Seas-Beatrix-The-Pirate-Queen-Hat
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/62724852/Chestnut-Bun
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/62234425/Brown-Hair
+--https://www.roblox.com/catalog/376524487/Blonde-Spiked-Hair
+---------------------------------------
+--Fe heavy laser hats needed:
+--https://www.roblox.com/catalog/4381828509/Junkbot-Hat
+--https://www.roblox.com/catalog/6470135113/Fan-Hand-Sign-Why-Dont-We-WDW
+--https://www.roblox.com/catalog/451220849/Lavender-Updo
+--https://www.roblox.com/catalog/2493718915/The-High-Seas-Beatrix-The-Pirate-Queen-Hat
+--https://www.roblox.com/catalog/62724852/Chestnut-Bun
+--https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
+--https://www.roblox.com/catalog/62234425/Brown-Hair
+--https://www.roblox.com/catalog/63690008/Pal-Hair
+--https://www.roblox.com/catalog/376524487/Blonde-Spiked-Hair
+
+
+--script
+
+
+loadstring(game:HttpGet("https://pastebin.com/raw/kEq7bdf9"))()
